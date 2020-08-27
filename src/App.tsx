@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  import('./test.json');
+  import('./test2.json');
   return (
     <div className="App">
       <header className="App-header">
